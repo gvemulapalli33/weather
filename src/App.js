@@ -6,8 +6,6 @@ import {weatherContext} from "./context/weatherContext";
 function App() {
   const {isNight} = useContext(weatherContext);
 
-  console.log(isNight);
-
   const nightColor = {
     backgroundColor: `--night-background-color`
   }
