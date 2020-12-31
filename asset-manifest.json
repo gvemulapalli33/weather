@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/weather/static/css/main.6a9715da.chunk.css",
-    "main.js": "/weather/static/js/main.424f0575.chunk.js",
-    "main.js.map": "/weather/static/js/main.424f0575.chunk.js.map",
-    "runtime-main.js": "/weather/static/js/runtime-main.6a77867c.js",
-    "runtime-main.js.map": "/weather/static/js/runtime-main.6a77867c.js.map",
-    "static/js/2.647aff38.chunk.js": "/weather/static/js/2.647aff38.chunk.js",
-    "static/js/2.647aff38.chunk.js.map": "/weather/static/js/2.647aff38.chunk.js.map",
-    "static/js/3.915b1523.chunk.js": "/weather/static/js/3.915b1523.chunk.js",
-    "static/js/3.915b1523.chunk.js.map": "/weather/static/js/3.915b1523.chunk.js.map",
+    "main.js": "/weather/static/js/main.62424017.chunk.js",
+    "main.js.map": "/weather/static/js/main.62424017.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.d99c7124.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.d99c7124.js.map",
+    "static/js/2.8d307ad5.chunk.js": "/weather/static/js/2.8d307ad5.chunk.js",
+    "static/js/2.8d307ad5.chunk.js.map": "/weather/static/js/2.8d307ad5.chunk.js.map",
+    "static/js/3.03d1a8e5.chunk.js": "/weather/static/js/3.03d1a8e5.chunk.js",
+    "static/js/3.03d1a8e5.chunk.js.map": "/weather/static/js/3.03d1a8e5.chunk.js.map",
     "index.html": "/weather/index.html",
     "static/css/main.6a9715da.chunk.css.map": "/weather/static/css/main.6a9715da.chunk.css.map",
-    "static/js/2.647aff38.chunk.js.LICENSE.txt": "/weather/static/js/2.647aff38.chunk.js.LICENSE.txt",
+    "static/js/2.8d307ad5.chunk.js.LICENSE.txt": "/weather/static/js/2.8d307ad5.chunk.js.LICENSE.txt",
     "static/media/cloudy-weather.8dc54d4f.gif": "/weather/static/media/cloudy-weather.8dc54d4f.gif",
     "static/media/fog-weather.be775f5d.gif": "/weather/static/media/fog-weather.be775f5d.gif",
     "static/media/light-snowy-weather.108083de.gif": "/weather/static/media/light-snowy-weather.108083de.gif",
@@ -23,9 +23,9 @@
     "static/media/App.css": "/weather/static/media/weather-bg.8bd25146.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a77867c.js",
-    "static/js/2.647aff38.chunk.js",
+    "static/js/runtime-main.d99c7124.js",
+    "static/js/2.8d307ad5.chunk.js",
     "static/css/main.6a9715da.chunk.css",
-    "static/js/main.424f0575.chunk.js"
+    "static/js/main.62424017.chunk.js"
   ]
 }
